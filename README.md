@@ -5,6 +5,8 @@ scholarship and student mobility programs (Erasmus, Mevlana, Fulbright, DAAD, Ch
 MEXT, and more), demonstrating how grounding an LLM's answers in retrieved context
 reduces hallucination compared to the model answering from its own knowledge alone.
 
+Built for the Information Systems course at Ankara University.
+
 ## How it works
 - **Knowledge base:** 70 documents covering scholarship requirements, grants, and
   eligibility criteria, generated with LLM assistance.
